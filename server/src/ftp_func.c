@@ -1,4 +1,4 @@
-#include "factory.h"
+#include "../include/factory.h"
 
 void cleanup(void* p){
     pthread_mutex_t *mutex=(pthread_mutex_t*)p;

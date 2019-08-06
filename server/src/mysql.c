@@ -1,4 +1,4 @@
-#include "factory.h"
+#include "../include/factory.h"
 
 char* query_login(char* value,char* word)
 {

@@ -1,4 +1,4 @@
-#include "factory.h"
+#include "../include/factory.h"
 
 int main(int argc,char* argv[])
 {

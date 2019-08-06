@@ -1,4 +1,4 @@
-#include "work_que.h"
+#include "../include/work_que.h"
 
 void que_init(pque_t pq,int capacity)
 {

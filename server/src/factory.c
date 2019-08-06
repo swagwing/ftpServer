@@ -1,4 +1,4 @@
-#include "factory.h"
+#include "../include/factory.h"
 
 void factory_init(pfactory_t pf,int thread_num,int capacity)
 {

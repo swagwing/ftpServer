@@ -1,4 +1,4 @@
-#include "head.h"
+#include "../include/head.h"
 
 int send_n(int sfd,char *buf,int len)
 {
